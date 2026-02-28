@@ -4,7 +4,10 @@ Realiverse is a multi-model intelligence system designed to discover the **3 hig
 
 By combining multiple analytical models, Realiverse continuously scans on-chain activity, market signals, and emerging narratives to identify the strongest opportunities across the SOL ecosystem.
 
+Official CA $Realiverse : https://pump.fun/coin/GZjfxy5XfMro98VVW5CVAHFdG8Tmw36yoeQDd3mdpump
+
 Website: https://realiverse.org/
+
 Twitter: https://x.com/RealiverseChain
 
 ---
